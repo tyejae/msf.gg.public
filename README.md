@@ -21,6 +21,6 @@ If you find a bug on msf.gg or have an idea for an enhancement, please submit th
 * **Can I join the team?**
 
   Right now, the three of us are working hard to make the site the best it can be. In the future we may add more help as needed, but we aren't actively looking right now.
-  * **Do you have a Discord channel?**
+* **Do you have a Discord channel?**
 
   I'm glad you asked! Here is the link to join the channel: https://discord.gg/msf
