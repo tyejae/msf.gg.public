@@ -1,6 +1,6 @@
 # MSF.GG Public
 Public issues regarding MSF.gg go here
-To see previous releases, http://msf.gg/updates
+To see previous changes, http://msf.gg/change-log
 
 ### Developers
 This site was started by [pimptoxie](https://github.com/pimptoxie) and [empyrialist](https://github.com/empyrialist). After the initial launch [tyejae](https://github.com/tyejae) was added to the team.
