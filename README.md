@@ -6,7 +6,7 @@ To see previous releases, http://msf.gg/updates
 This site was started by [pimptoxie](https://github.com/pimptoxie) and [empyrialist](https://github.com/empyrialist). After the initial launch [tyejae](https://github.com/tyejae) was added to the team.
 
 ### Submitting An Issue
-If you find a bug on msf.gg or have an idea for enhancement, please submit those request in the [issues](https://github.com/tyejae/msf.gg.public/issues) tab. We will review them and prioritize them for implementation. 
+If you find a bug on msf.gg or have an idea for an enhancement, please submit those requests in the [issues](https://github.com/tyejae/msf.gg.public/issues) tab. We will review them and prioritize them for implementation. 
 
 ### FAQ
 * **What can I do to help?**
