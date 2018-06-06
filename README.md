@@ -3,7 +3,7 @@ Public issues regarding MSF.gg go here
 To see previous changes, http://msf.gg/change-log
 
 ### Developers
-This site was started by [pimptoxie](https://github.com/pimptoxie) and [empyrialist](https://github.com/empyrialist). After the initial launch [tyejae](https://github.com/tyejae) was added to the team.
+This site was started by [pimptoxie](https://gitlab.com/drewk) and [empyrialist](https://gitlab.com/Empyrial). After the initial launch [tyejae](https://github.com/tyejae) was added to the team.
 
 ### Submitting An Issue
 If you find a bug on msf.gg or have an idea for an enhancement, please submit those requests in the [issues](https://github.com/tyejae/msf.gg.public/issues) tab. We will review them and prioritize them for implementation. 
