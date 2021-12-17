@@ -1,9 +1,8 @@
 # MSF.GG Public
 Public issues regarding MSF.gg go here
-To see previous changes, http://msf.gg/change-log
 
 ### Developers
-This site was started by [pimptoxie](https://gitlab.com/drewk) and [empyrialist](https://gitlab.com/Empyrial). After the initial launch [tyejae](https://github.com/tyejae) was added to the team.
+This site was started by [pimptoxie](https://gitlab.com/drewk) and [tyejae](https://github.com/tyejae).
 
 ### Submitting An Issue
 If you find a bug on msf.gg or have an idea for an enhancement, please submit those requests in the [issues](https://github.com/tyejae/msf.gg.public/issues) tab. We will review them and prioritize them for implementation. 
@@ -15,12 +14,9 @@ If you find a bug on msf.gg or have an idea for an enhancement, please submit th
 * **Can you add farming location info on each character page?**
 
   No. Unfortunately, the data for farming locations isn't exposed to us until we get dev support. We don't have dev support yet.
-* **Can you add rewards for each event tier?**
-
-  No. Unfortunately, the data for event teir rewards isn't exposed to us until we get dev support. We don't have dev support yet.
 * **Can I join the team?**
 
-  Right now, the three of us are working hard to make the site the best it can be. In the future we may add more help as needed, but we aren't actively looking right now.
+  Right now, the two of us are working hard to make the site the best it can be. In the future we may add more help as needed, but we aren't actively looking right now.
 * **Do you have a Discord channel?**
 
   I'm glad you asked! Here is the link to join the channel: https://discord.gg/msf
