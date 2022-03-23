@@ -6,10 +6,10 @@ on:
 jobs:
   issue_commented:
     runs-on: ubuntu-latest
+    if: ${{ (github.event.comment.author_association == 'OWNER') || (github.event.comment.author_association == 'COLLABORATOR') }}
     steps:
       - name: labeling on dev reply
         uses: andymckay/labeler@master
         with:
           add-labels: "status: dev-reply"
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          allowed-associations: '["OWNER", "CONTRIBUTOR"]'
