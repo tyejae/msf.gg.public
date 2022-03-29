@@ -4,25 +4,37 @@ title: "[BUG] <title>"
 labels: ["type: bug", "status: triage"]
 body:
 - type: checkboxes
+  id: screening
   attributes:
     label: Is there an existing issue for this?
     description: Please search to see if an issue already exists for the bug you encountered.
     options:
     - label: I have searched the existing issues
       required: true
+- type: checkboxes
+  id: product
+  attributes:
+    label: Product
+    description: Which product are you having problems with?
+    options:
+      - label: Site
+      - label: Bot
 - type: textarea
+  id: current
   attributes:
     label: Current Behavior
     description: A concise description of what you're experiencing.
   validations:
     required: true
 - type: textarea
+  id: expected
   attributes:
     label: Expected Behavior
     description: A concise description of what you expected to happen.
   validations:
     required: true
 - type: textarea
+  id: steps
   attributes:
     label: Steps To Reproduce
     description: Steps to reproduce the behavior.
@@ -33,17 +45,8 @@ body:
       4. See error
   validations:
     required: false
-- type: dropdown
-  id: product
-  attributes:
-    label: Product
-    description: Which product are you having problems with?
-    options:
-      - Site
-      - Bot
-  validations:
-    required: true
 - type: textarea
+  id: environment
   attributes:
     label: Environment
     description: |
@@ -61,6 +64,7 @@ body:
   validations:
     required: false
 - type: textarea
+  id: additional-info
   attributes:
     label: Anything else?
     description: |
