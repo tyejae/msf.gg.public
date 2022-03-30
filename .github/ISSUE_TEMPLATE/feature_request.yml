@@ -4,6 +4,14 @@ title: "[REQUEST]: <title>"
 labels: ["type: feature-request", "status: triage"]
 body:
   - type: checkboxes
+    id: screening
+    attributes:
+      label: Is there an existing suggestion for this?
+      description: Please search to see if a suggestion already exists for your idea.
+      options:
+      - label: I have searched the existing suggestions
+        required: true
+  - type: checkboxes
     id: product
     attributes:
       label: Product
