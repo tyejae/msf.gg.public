@@ -6,9 +6,15 @@ body:
 - type: checkboxes
   id: screening
   attributes:
-    label: Is there an existing issue for this?
-    description: Please search to see if an issue already exists for the bug you encountered.
+    label: I'm Not a Dummy, So I've Checked These
+    description: Please go through this checklist before sending the report.
     options:
+    - label: It happens on multiple browsers (if site)
+      required: false
+    - label: I've cleared browser cache and restarted browser (if site)
+      required: false
+    - label: I've asked support in MSF.gg Discord before writing this
+      required: true
     - label: I have searched the existing issues
       required: true
 - type: checkboxes
