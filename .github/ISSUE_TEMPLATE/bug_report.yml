@@ -6,7 +6,7 @@ body:
 - type: checkboxes
   id: screening
   attributes:
-    label: I'm Not a Dummy, So I've Checked These
+    label: I'm Smart, So I've Checked These
     description: Please go through this checklist before sending the report.
     options:
     - label: It happens on multiple browsers (if site)
