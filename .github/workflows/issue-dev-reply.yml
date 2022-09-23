@@ -12,4 +12,4 @@ jobs:
         uses: andymckay/labeler@master
         with:
           add-labels: "status: dev-reply"
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
